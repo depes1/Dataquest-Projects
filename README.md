@@ -39,23 +39,3 @@
 **19 - Predicting Bike Rentals:** In this project, I have used and compared Linear Regression, Decision Tree Regression and Random Forest algorithms to predict bike rentals. I also tried to find the best parameters to prevent overfitting and get good results.
 
 **20 - Building A Handwritten Digits Classifier:** In this project, I tried to use and compare the k-nearest neighbors algorithm and neural networks with different numbers of neurons and different hidden layers for classifying handwritten digits problem.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**06 - Dissatisfaction in Employee Exit Surveys:** In this project, I work with exit surveys from two institutes in Queensland, Australia, and try to analyze if employees resigning due to some kind of dissatisfaction.
